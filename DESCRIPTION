@@ -1,0 +1,14 @@
+Package: IBMtwitter
+Type: Package
+Title: IBM Twitter API Connector
+Version: 0.1.0
+Author: Stanley Ho Big Data Decision Analytics Research Centre, CUHK
+Maintainer: Felix Chan <felixchan@cuhk.edu.hk>
+Description: R package to access the function of Insights for Twitter
+    provided by IBM Bluemix. (https://console.ng.bluemix.net/catalog/services/insights-for-twitter)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+    RCurl,
+    jsonlite
